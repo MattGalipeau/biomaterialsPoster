@@ -24,9 +24,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
      showgrid="false"
-     inkscape:zoom="0.17304819"
-     inkscape:cx="2421.2908"
-     inkscape:cy="1568.9271"
+     inkscape:zoom="0.2447271"
+     inkscape:cx="1495.5434"
+     inkscape:cy="753.90099"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -51,9 +51,54 @@
        visible="false" />
   </sodipodi:namedview>
   <defs
-     id="defs1" />
+     id="defs1">
+    <rect
+       x="936.15541"
+       y="124.24285"
+       width="2744.9001"
+       height="254.26443"
+       id="rect4" />
+    <rect
+       x="699.22719"
+       y="75.123583"
+       width="3103.1818"
+       height="317.83054"
+       id="rect3" />
+    <rect
+       x="1028.6152"
+       y="179.14085"
+       width="1132.6325"
+       height="104.01727"
+       id="rect2" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1" />
+     id="layer1">
+    <rect
+       style="fill:#f4b5b5;fill-opacity:1;stroke-width:0.226128"
+       id="rect1"
+       width="762"
+       height="88.900002"
+       x="228.60001"
+       y="16.818533" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="fill:#f4b5b5;fill-opacity:1;white-space:pre;shape-inside:url(#rect2)" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2"
+       style="fill:#f4b5b5;fill-opacity:1;white-space:pre;shape-inside:url(#rect3)" />
+    <text
+       xml:space="preserve"
+       id="text3"
+       style="font-size:96px;white-space:pre;shape-inside:url(#rect4);fill:#000000;fill-opacity:1"
+       transform="matrix(0.26839318,0,0,0.27243171,1.0184596,13.090099)"><tspan
+         x="936.15625"
+         y="211.8259"
+         id="tspan1">Interfacing of Cochlear Implants With the Human Body</tspan></text>
+  </g>
 </svg>
