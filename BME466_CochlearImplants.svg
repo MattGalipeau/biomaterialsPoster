@@ -23,10 +23,10 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="in"
-     showgrid="false"
-     inkscape:zoom="0.2447271"
-     inkscape:cx="1769.3178"
-     inkscape:cy="892.83125"
+     showgrid="true"
+     inkscape:zoom="0.12236355"
+     inkscape:cx="1569.0947"
+     inkscape:cy="1270.8033"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -35,20 +35,21 @@
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
-       units="mm"
+       units="in"
        originx="0"
        originy="0"
-       spacingx="0.99999998"
-       spacingy="1"
+       spacingx="12.7"
+       spacingy="12.7"
        empcolor="#0099e5"
        empopacity="0.30196078"
        color="#0099e5"
        opacity="0.14901961"
-       empspacing="5"
+       empspacing="4"
        dotted="false"
        gridanglex="30"
        gridanglez="30"
-       visible="false" />
+       visible="true"
+       enabled="true" />
   </sodipodi:namedview>
   <defs
      id="defs1">
@@ -81,7 +82,7 @@
        width="762"
        height="88.900002"
        x="228.60001"
-       y="16.818533" />
+       y="25.4" />
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
